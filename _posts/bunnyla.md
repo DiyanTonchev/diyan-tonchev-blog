@@ -1,13 +1,13 @@
 ---
 title: 'The Tale of Bunnyla: A Furry Adventure 🐰'
 excerpt: 'Once upon a time in a cozy little burrow, there lived a fluffy and adventurous rabbit named Bunnyla. With her snow-white fur and twitching pink nose Bunnyla was the heart and soul of her owners world'
-coverImage: '/assets/blog/bunnyla/bunnyla-cover.jpeg'
+coverImage: '/assets/blog/bunnyla/bunnyla-garden.png'
 date: '2023-12-08T18:18:51.300Z'
 author:
   name: Diyan Tonchev
   picture: '/assets/blog/authors/diyan.png'
 ogImage:
-  url: '/assets/blog/bunnyla/bunnyla-cover.jpeg'
+  url: '/assets/blog/bunnyla/bunnyla-garden.png'
 ---
 
 Once upon a time in a cozy little burrow, there lived a fluffy and adventurous rabbit named Bunnyla. With her snow-white fur and twitching pink nose, Bunnyla was the heart and soul of her owner's world.

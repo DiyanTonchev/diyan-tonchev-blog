@@ -14,7 +14,7 @@ Once upon a time in a cozy little burrow, there lived a fluffy and adventurous r
 
 ## Chapter 1: The Curious Explorer
 
-Bunnyla was not your ordinary rabbit. She had an insatiable curiosity that led her to explore every nook and cranny of her owner's home. From the living room to the kitchen, Bunnyla hopped around like a tiny, furry detective, discovering hidden treasures and secret passages.
+Bunnyla was not your ordinary rabbit; she had an insatiable curiosity that led her to explore every nook and cranny of her owner's home. From the living room to the kitchen, Bunnyla hopped around like a tiny, furry detective, discovering hidden treasures and secret passages.
 
 ## Chapter 2: Bunnyla's Garden Haven 🌼
 

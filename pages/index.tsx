@@ -18,7 +18,7 @@ export default function Index({ allPosts }: Props) {
     <>
       <Layout>
         <Head>
-          <title>Bynnyla's Blog</title>
+          <title>Bunnyla's Blog</title>
         </Head>
         <Container>
           <Intro />

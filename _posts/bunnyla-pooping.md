@@ -1,13 +1,13 @@
 ---
 title: 'The Scoop on Bunnylas Bunny Business: A Poop-tastic Tale 🐰💩'
 excerpt: 'Greetings, dear readers! Today, lets dive into the not-so-glamorous but utterly essential aspect of our beloved bunny friend Bunnylas life – yes, you guessed it – bunny poops! 🐇💩'
-coverImage: '/assets/blog/bunnyla/bunnyla-garden.png'
+coverImage: '/assets/blog/bunnyla/bunnyla-cover.jpeg'
 date: '2023-12-08T18:18:51.300Z'
 author:
   name: Diyan Tonchev
   picture: '/assets/blog/authors/diyan.png'
 ogImage:
-  url: '/assets/blog/bunnyla/bunnyla-garden.png'
+  url: '/assets/blog/bunnyla/bunnyla-cover.jpeg'
 ---
 
 Greetings, dear readers! Today, let's dive into the not-so-glamorous but utterly essential aspect of our beloved bunny friend Bunnyla's life – yes, you guessed it – bunny poops! 🐇💩

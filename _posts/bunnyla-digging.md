@@ -1,13 +1,13 @@
 ---
 title: 'Bunyla: The Bunny Who Solves Every Problem by Digging'
 excerpt: 'Welcome to another exciting post on our Bunnyla Rabbit Blog! Today, we are delving into the world of Bunyla, a unique bunny with an extraordinary problem-solving method - digging!'
-coverImage: '/assets/blog/bunnyla/bunnyla-cover.jpeg'
+coverImage: '/assets/blog/bunnyla/bunnyla-garden.png'
 date: '2023-12-21T22:45:51.300Z'
 author:
   name: Diyan Tonchev
   picture: '/assets/blog/authors/diyan.png'
 ogImage:
-  url: '/assets/blog/bunnyla/bunnyla-cover.jpeg'
+  url: '/assets/blog/bunnyla/bunnyla-garden.png'
 ---
 
 ## Introduction

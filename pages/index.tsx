@@ -1,4 +1,3 @@
-import { Analytics } from '@vercel/analytics/react';
 import Container from '../components/container'
 import MoreStories from '../components/more-stories'
 import HeroPost from '../components/hero-post'
@@ -36,7 +35,6 @@ export default function Index({ allPosts }: Props) {
           {morePosts.length > 0 && <MoreStories posts={morePosts} />}
         </Container>
       </Layout>
-      <Analytics />
     </>
   )
 }

@@ -1,6 +1,8 @@
+import { Analytics } from '@vercel/analytics/react';
 import Alert from './alert'
 import Footer from './footer'
 import Meta from './meta'
+
 
 type Props = {
   preview?: boolean
@@ -16,6 +18,7 @@ const Layout = ({ preview, children }: Props) => {
         <main>{children}</main>
       </div>
       {/* <Footer /> */}
+      <Analytics />
     </>
   )
 }

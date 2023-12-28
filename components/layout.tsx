@@ -1,5 +1,3 @@
-import { Analytics } from '@vercel/analytics/react';
-import { SpeedInsights } from "@vercel/speed-insights/next"
 import Alert from './alert'
 import Footer from './footer'
 import Meta from './meta'
@@ -19,8 +17,6 @@ const Layout = ({ preview, children }: Props) => {
         <main>{children}</main>
       </div>
       {/* <Footer /> */}
-      <Analytics />
-      <SpeedInsights />
     </>
   )
 }

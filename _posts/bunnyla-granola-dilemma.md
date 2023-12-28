@@ -10,8 +10,6 @@ ogImage:
   url: '/assets/blog/bunnyla/bunnyla-garden.png'
 ---
 
-# The Granola Dilemma: Bunnyla's Unusual Eating Habits
-
 ## Introduction
 In today's post, we encounter a peculiar situation with our beloved Bunnyla: her newfound preference for granola over hay. While diversity in diet is generally positive, this specific choice raises concerns. Let's hop into the details!
 
